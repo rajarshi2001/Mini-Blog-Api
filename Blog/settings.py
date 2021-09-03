@@ -26,7 +26,7 @@ SECRET_KEY = 'nj-_r+%zqgbp3%26fubu(a5cq566-aeksy4fxm2i2b&$(#e@zo'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
